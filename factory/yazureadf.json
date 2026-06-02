@@ -1,0 +1,15 @@
+{
+	"name": "yazureadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0b67548-4f89-45e9-a172-8407dee82fcd",
+		"tenantId": "32255f6e-7684-4e04-9b18-36e550eaee15"
+	}
+}
