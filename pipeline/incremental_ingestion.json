@@ -1,5 +1,5 @@
 {
-	"name": "incremental_ingestion_loop",
+	"name": "incremental_ingestion",
 	"properties": {
 		"activities": [
 			{
@@ -327,9 +327,7 @@
 						"activity": "ForEach1",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped",
-							"Succeeded",
-							"Completed"
+							"Succeeded"
 						]
 					}
 				],
